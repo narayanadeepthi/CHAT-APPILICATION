@@ -28,4 +28,4 @@ Overall, this real-time chat application provides a robust and interactive platf
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/c8c3539c-0618-4297-8f76-c086e6b1ab37)
+![Image](https://github.com/user-attachments/assets/7a1b067c-9d71-43cd-97b5-ffeccb76dec7)
