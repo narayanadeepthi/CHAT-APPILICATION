@@ -25,7 +25,3 @@ When a user sends a new message, the application emits the message to the server
 Furthermore, the application's CSS styles ensure a visually appealing and responsive design, while the JavaScript code handles client-side logic, including sending and receiving messages, and updating the chat messages section.
 
 Overall, this real-time chat application provides a robust and interactive platform for users to communicate and collaborate with each other instantly, making it an ideal solution for various applications, including customer support, team collaboration, and social networking. With its scalable and efficient architecture, this application can handle a large number of users and messages, ensuring a seamless and enjoyable user experience.
-
-#OUTPUT
-
-![Image](https://github.com/user-attachments/assets/7a1b067c-9d71-43cd-97b5-ffeccb76dec7)
